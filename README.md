@@ -1,5 +1,5 @@
 
-<img  width=“964” alt="mobile" src="https://github.com/Alexandra2888/Mobile-app.psd/blob/master/Mobile-app.psd">
+<img  width=“564” alt="mobile" src="https://github.com/Alexandra2888/Mobile-app.psd/blob/master/Mobile-app.psd">
 
 
 # Mobile-app.psd
