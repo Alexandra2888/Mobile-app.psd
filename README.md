@@ -1,7 +1,4 @@
 
-<img  width=“564” alt="mobile" src="https://github.com/Alexandra2888/Mobile-app.psd/blob/master/Mobile-app.psd">
-
-
 # Mobile-app.psd
 
 Transforming a .psd into a full-reesponsive website.
